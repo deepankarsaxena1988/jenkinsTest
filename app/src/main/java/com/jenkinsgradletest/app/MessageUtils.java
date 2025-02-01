@@ -5,6 +5,6 @@ package com.jenkinsgradletest.app;
 
 class MessageUtils {
     public static String getMessage() {
-        return "Hello      World!";
+        return "Hello   Jenkins with GIT   World!";
     }
 }
